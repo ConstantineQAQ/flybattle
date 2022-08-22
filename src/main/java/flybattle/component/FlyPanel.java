@@ -327,7 +327,7 @@ public class FlyPanel extends JPanel implements MouseMotionListener {
             }
 
             //到1000分时进入第二关
-            if (number == 1000) {
+            if (number == 100) {
                 level = 2;
             }
 
