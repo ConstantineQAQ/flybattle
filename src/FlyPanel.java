@@ -324,7 +324,7 @@ public class FlyPanel extends JPanel implements MouseMotionListener {
                 }
             }
 
-            if (number == 100) {
+            if (number == 1000) {
                 level = 2;
             }
 
